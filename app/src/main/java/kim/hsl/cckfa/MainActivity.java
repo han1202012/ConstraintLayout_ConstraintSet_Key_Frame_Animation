@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * 点击触发关键帧动画
+     * 点击触发 关键帧动画
      * @param view
      */
     public void onClick(View view){
